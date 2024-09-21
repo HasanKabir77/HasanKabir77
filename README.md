@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Hasan Kabir
 - 👀 I’m interested in Learning New Things
-- 🌱 I’m currently learning Javascript, Node JS
+- 🌱 I’m currently learning Flutter, .NET Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Hasan
 - 😄 Pronouns: ...

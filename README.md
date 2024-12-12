@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - 💡 I’m open to collaborating on **Game Development Projects**, **.NET Applications**, and **Mobile App Development**.  
 
 ## Skills  
-- **Programming Languages**: C#, Python (Basic Syntax), SQL  
+- **Programming Languages**: C#, Python (Basic), SQL  
 - **Frameworks & Tools**: ASP.NET, .NET Core, Unity3D, Firebase  
 - **Mobile Development**: Flutter, Android Development  
 - **Database Management**: MS Access, SQL Server  

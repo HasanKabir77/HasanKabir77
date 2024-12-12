@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 
 ## Contact Me  
 - 📫 Email: **[hasankabir0720@gmail.com]**  
-- 🌐 LinkedIn: [https://www.linkedin.com/in/muhammadhasankabir77]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/muhammadhasankabir77](#)  
 
 Let’s connect and create something amazing together!  
 

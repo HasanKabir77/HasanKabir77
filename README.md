@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 - ⚡ I enjoy **reading books**, **traveling**, and **playing strategy games** in my leisure time.  
 
 ## Contact Me  
-- 📫 Email: **[hasankabir0720@gmail.com]**  
+- 📫 Email: [hasankabir0720@gmail.com](#)
 - 🌐 LinkedIn: [https://www.linkedin.com/in/muhammadhasankabir77](#)  
 
 Let’s connect and create something amazing together!  

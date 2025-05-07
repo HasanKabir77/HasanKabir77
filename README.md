@@ -4,15 +4,15 @@ Welcome to my GitHub profile!
 
 ## About Me  
 - 👀 I’m passionate about **Learning New Technologies**, **Game Development**, and **Building Scalable Applications**.  
-- 🌱 I’m currently exploring **Flutter**, **.NET Core API Development**, and **Layered Architecture**.  
+- 🌱 I’m currently exploring **.NET Core API Development**, **.NET Core MVC Web App Development**, and **Layered Architecture**.  
 - 💼 I have experience in **C#**, **ASP.NET**, **Unity3D**, **SQL**, **Firebase**, and **Android Development**.  
 - 💡 I’m open to collaborating on **Game Development Projects**, **.NET Applications**, and **Mobile App Development**.  
 
 ## Skills  
 - **Programming Languages**: C#, Python (Basic), SQL  
 - **Frameworks & Tools**: ASP.NET, .NET Core, Unity3D, Firebase  
-- **Mobile Development**: Flutter, Android Development  
-- **Database Management**: MS Access, SQL Server  
+- **Mobile Development**: Android Development  
+- **Database Management**: MS Access, SQL Server, MySQL
 - **Other Interests**: Object-Oriented Programming (OOP), APIs (Database First Approach)  
 
 ## Fun Facts  
